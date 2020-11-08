@@ -13,7 +13,8 @@ It is a 3D adventure game that you have to fight against enemies and solve the g
 ⑤使用ツールや動作環境：
 現在の運行環境はVisual Studio 15.0でコンパイルしていました。また、OpenGL環境を構
 築する必要があります。 
-もしなかった場合、”OpenGL  Files”を以下のウェブサイトの通りに、特定のフォルダーに入れてください。　　　　　　
+もしなかった場合、”OpenGL  Files”を以下のウェブサイトの通りに、特定のフォルダーに入れてください。　　
+
 リンク：http://hajimeyo-opengl.sakura.ne.jp/
 
 ⑥使用方法：
